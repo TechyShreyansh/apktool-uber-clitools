@@ -15,7 +15,7 @@ This repository provides a streamlined way to set up and run **Apktool** directl
 ### 🪟 Windows
 1. **Case Sensitivity:** Adjust Windows case sensitivity settings for correct operation (optional but recommended).
 2. **Download Wrapper:** Download the [Windows wrapper script](https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/windows/apktool.bat) (Right-click -> Save Link As `apktool.bat`).
-3. **Download Apktool:** Get the latest version of Apktool.jar.
+3. **Download Apktool:** Get the latest version of [Apktool.jar](https://bitbucket.org/iBotPeaches/apktool/downloads/).
 4. **Rename:** Rename the downloaded `.jar` file to `apktool.jar`.
 5. **Setup Path:**
    * Move both `apktool.jar` and `apktool.bat` to your Windows directory (usually `C://Windows`).
@@ -26,7 +26,7 @@ This repository provides a streamlined way to set up and run **Apktool** directl
 
 ### 🐧 Linux
 1. **Download Wrapper:** Download the [Linux wrapper script](https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool) (Right-click -> Save Link As `apktool`).
-2. **Download Apktool:** Get the latest version of Apktool.jar.
+2. **Download Apktool:** Get the latest version of [Apktool.jar](https://bitbucket.org/iBotPeaches/apktool/downloads/).
 3. **Rename:** Rename the downloaded jar to `apktool.jar`.
 4. **Permissions & Move:**
    ```bash
