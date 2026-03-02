@@ -33,11 +33,13 @@ This repository provides a streamlined way to set up and run **Uber** directly f
    # Rename uber-apk-signer-1.3.0.jar to uber.jar and move to /usr/local/bin
    sudo mv uber.jar /usr/local/bin
    
-   # Create the Wrapper Script
+   > Create the Wrapper Script
    sudo nano /usr/local/bin/uber
-   #Paste the following code into the editor:
+   
+   > Paste the following code into the editor:
    #!/bin/bash
    java -jar /usr/local/bin/uber.jar "$@"
    # Save and exit: Press Ctrl+O, Enter, then Ctrl+X.
-   # Set Executable Permissions
+   
+   > Set Executable Permissions
    sudo chmod +x /usr/local/bin/uber
