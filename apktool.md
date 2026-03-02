@@ -1,4 +1,4 @@
-# Apktool & Uber CLI Setup Guide 🚀
+# Apktool CLI Setup Guide 🚀
 
 This repository provides a streamlined way to set up and run **Apktool** and **Uber APK Signer** directly from your terminal/command prompt. No more long `java -jar` commands!
 
